@@ -1,4 +1,4 @@
-<h2 align="center">Multi-LoRA Fine-Tuned Segment Anything Model for Urban Man-Made Object Extraction</h2>
+<h2 align="center">Multi-LoRA Fine-Tuned Segment Anything Model for Extraction of Urban Man-Made Objects </h2>
 
 <h5 align="center"> <a href="https://scholar.google.com/citations?user=MDA37NMAAAAJ&hl=zh-CN">Xiaoyan LU</a>,
 and <a href="https://scholar.google.com/citations?user=SbbCxE8AAAAJ">Qihao WENG</a></h5>

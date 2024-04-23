@@ -16,7 +16,7 @@ and <a href="https://scholar.google.com/citations?user=SbbCxE8AAAAJ">Qihao Weng<
 ## The training dataset
 
 1. [<b>DeepGlobe Road Dataset </b>](https://competitions.codalab.org/competitions/18467#participate-get_data): 4696 samples
-2. [<b>SpaceNet Building Dataset </b>](https://spacenet.ai/spacenet-buildings-dataset-v2/)  8429 samples
+2. [<b>SpaceNet Building Dataset </b>](https://spacenet.ai/spacenet-buildings-dataset-v2/): 8429 samples
 
 If you have difficulty processing this data, feel free to reach out to me at xiaoyan07.lu@polyu.edu.hk for assistance.
 
@@ -24,7 +24,7 @@ If you have difficulty processing this data, feel free to reach out to me at xia
 ## The validation set spans across five continents.
 
 1. [<b>The WHU building (Christchurch) Dataset</b>](http://gpcv.whu.edu.cn/data/building_dataset.html)  
-2. [<b>The other validation Dataset</b>][<b>Baidu Drive</b>]( ), Code:
+2. The other validation Dataset: [<b>Baidu Drive</b>]( ), Code:
 
 <div align="center">
   <img src="./img/val_data.png?raw=true">

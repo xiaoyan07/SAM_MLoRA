@@ -6,7 +6,7 @@ and <a href="https://scholar.google.com/citations?user=SbbCxE8AAAAJ">Qihao WENG<
 
 [[`Paper`]()] 
 
-[The code will be released after the manuscript is accepted]
+[The code and datasets will be released after the manuscript is accepted]
 
 ## Multi-LoRA Fine-Tuned SAM Framework
 
@@ -24,7 +24,7 @@ If you have difficulty processing this data, feel free to reach out to me at xia
 
 ## The validation set spans across five continents.
 
-1. [<b>The WHU building (Christchurch) dataset</b>](http://gpcv.whu.edu.cn/data/building_dataset.html)  
+1. [<b>The WHU building (Christchurch) dataset</b>](http://gpcv.whu.edu.cn/data/building_dataset.html): 2416 samples
 2. The other validation dataset: [<b>Baidu Drive</b>]( ), Code:
 
 <div align="center">
@@ -33,9 +33,3 @@ If you have difficulty processing this data, feel free to reach out to me at xia
 
 ## Pre-trained model
 The pre-trained SAM_MLoRA is released at [<b>Baidu Drive</b>](), Code:
-
-## License
-The owners of the copyright are [The JC STEM Lab of Earth Observations](https://weng-poleis.com/), The Hong Kong Polytechnic University (https://www.polyu.edu.hk/).
-
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">
-<img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>

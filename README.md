@@ -19,9 +19,6 @@
 1. [<b>DeepGlobe Road Training Dataset </b>](https://competitions.codalab.org/competitions/18467#participate-get_data): 4696 samples
 2. [<b>SpaceNet Building AOI2 and AOI4 Dataset </b>](https://spacenet.ai/spacenet-buildings-dataset-v2/): 8429 samples
 
-If you have difficulty processing this data, feel free to reach out to me at xiaoyan07.lu@polyu.edu.hk for assistance.
-
-
 ## The validation set spans across five continents.
 
 1. [<b>DeepGlobe Road Test Dataset </b>](https://competitions.codalab.org/competitions/18467#participate-get_data): 1530 samples
@@ -29,6 +26,7 @@ If you have difficulty processing this data, feel free to reach out to me at xia
 3. [<b>The WHU building (Christchurch) dataset</b>](http://gpcv.whu.edu.cn/data/building_dataset.html): 2416 samples
 4. [<b>The other validation dataset</b>]( ): Baidu Drive(Code:)
 
+If you have difficulty processing this data, feel free to reach out to me at xiaoyan07.lu@polyu.edu.hk for assistance.
 <div align="center">
   <img src="./img/val_data.png?raw=true">
 </div>

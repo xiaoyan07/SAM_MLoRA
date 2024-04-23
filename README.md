@@ -30,7 +30,7 @@
   <img src="./img/val_data.png?raw=true">
 </div>
 
-If you have difficulty processing this data, feel free to reach out to me at xiaoyan07.lu@polyu.edu.hk for assistance.
+If you have difficulty processing this data, feel free to reach out to me at xiaoyan07.lu@polyu.edu.hk for help.
 
 ## Pre-trained model
 The pre-trained SAM_MLoRA is released at [<b>Baidu Drive</b>](), Code:

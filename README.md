@@ -26,10 +26,11 @@
 3. [<b>The WHU building (Christchurch) dataset</b>](http://gpcv.whu.edu.cn/data/building_dataset.html): 2416 samples
 4. [<b>The other validation dataset</b>]( ): Baidu Drive(Code:)
 
-If you have difficulty processing this data, feel free to reach out to me at xiaoyan07.lu@polyu.edu.hk for assistance.
 <div align="center">
   <img src="./img/val_data.png?raw=true">
 </div>
+
+If you have difficulty processing this data, feel free to reach out to me at xiaoyan07.lu@polyu.edu.hk for assistance.
 
 ## Pre-trained model
 The pre-trained SAM_MLoRA is released at [<b>Baidu Drive</b>](), Code:

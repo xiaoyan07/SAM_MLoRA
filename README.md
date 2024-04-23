@@ -1,11 +1,12 @@
 <h2 align="center">Multi-LoRA Fine-Tuned Segment Anything Model for Urban Man-Made Object Extraction</h2>
 
-<h5 align="center"> <a href="https://scholar.google.com/citations?user=MDA37NMAAAAJ&hl=zh-CN">Xiaoyan Lu</a>,
-and <a href="https://scholar.google.com/citations?user=SbbCxE8AAAAJ">Qihao Weng</a></h5>
+<h5 align="center"> <a href="https://scholar.google.com/citations?user=MDA37NMAAAAJ&hl=zh-CN">Xiaoyan LU</a>,
+and <a href="https://scholar.google.com/citations?user=SbbCxE8AAAAJ">Qihao WENG</a></h5>
 
 
 [[`Paper`]()] 
-The code will be released after the manuscript is accepted.
+
+[The code will be released after the manuscript is accepted]
 
 ## Multi-LoRA Fine-Tuned SAM Framework
 

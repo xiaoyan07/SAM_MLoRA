@@ -67,3 +67,21 @@ python train_sam_adapter_build.py --name='b_adapter_sam_multi_lora32_sp24'
 
 ## 
 The pre-trained SAM_MLoRA is released at [<b>Baidu Drive</b>](), Code:
+
+
+## Citation
+If this code or dataset contributes to your research, please kindly consider citing our paper :)
+```
+@article{Lu2024MLoRA,
+    title = {Multi-LoRA Fine-Tuned Segment Anything Model for Urban Man-Made Object Extraction},
+    author = {Xiaoyan LU and Qihao Weng},
+    journal = {IEEE Transactions on Geoscience and Remote Sensing},
+    volume = {62},
+    pages = {1-19},
+    year = {2024},
+    doi = {https://doi.org/10.1109/TGRS.2024.3435745}
+}
+```
+
+## Q & A
+**For any questions, please [contact us.](xiaoyan07.lu@polyu.edu.hk)**

@@ -33,12 +33,12 @@ If you have difficulty processing this data, feel free to reach out to me at xia
 
 ## Road Extraction
 
-Model: SAM_Adapter
+SAM_Adapter
 ```
 python train_sam_adapter.py --name='b_adapter_sam'
 ```
 
-Model: SAM_LoRA (r=96) 
+SAM_LoRA (r=96) 
 ```
 python train_sam_adapter.py --name='b_adapter_sam_lora96_96'
 ```
@@ -50,12 +50,12 @@ python train_sam_adapter.py --name='b_adapter_sam_multi_lora'
 
 ## Building Extraction
 
-Model: SAM_Adapter
+SAM_Adapter
 ```
 python train_sam_adapter_build.py --name='b_adapter_sam_sp24'
 ```
 
-Model: SAM_LoRA (r=96) 
+SAM_LoRA (r=96) 
 ```
 python train_sam_adapter_build.py --name='b_adapter_sam_lora96_96_sp24'
 ```

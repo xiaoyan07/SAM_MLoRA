@@ -82,6 +82,3 @@ If this code or dataset contributes to your research, please kindly consider cit
     doi = {https://doi.org/10.1109/TGRS.2024.3435745}
 }
 ```
-
-## Q & A
-**For any questions, please [contact us.](xiaoyan07.lu@polyu.edu.hk)**

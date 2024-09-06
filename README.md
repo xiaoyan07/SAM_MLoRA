@@ -31,8 +31,8 @@
 
 If you have difficulty processing this data, feel free to reach out to me at xiaoyan07.lu@polyu.edu.hk for help.
 
+## Road Extraction
 
-Road Extraction
 Model: SAM_Adapter
 ```
 python train_sam_adapter.py --name='b_adapter_sam'
@@ -48,8 +48,8 @@ SAM_MLoRA (r=32,n=3)
 python train_sam_adapter.py --name='b_adapter_sam_multi_lora'
 ```
 
+## Building Extraction
 
-Building Extraction
 Model: SAM_Adapter
 ```
 python train_sam_adapter_build.py --name='b_adapter_sam_sp24'

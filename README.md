@@ -25,8 +25,8 @@
 3. [<b>The WHU building (Christchurch) dataset</b>](http://gpcv.whu.edu.cn/data/building_dataset.html): 2416 samples
 
 ## 
-The processed datasets are released at [<b>Baidu Drive</b>](), Code: data
-The weights of SAM_Adapter, SAM_LoRA (r=96), and SAM_MLoRA (r=32,n=3) are released at [<b>Baidu Drive</b>](), Code: weight
+1. The processed datasets are released at [<b>Baidu Drive</b>](), Code: data
+2. The weights of SAM_Adapter, SAM_LoRA (r=96), and SAM_MLoRA (r=32,n=3) are released at [<b>Baidu Drive</b>](), Code: weight
 
 ## Road Extraction
 

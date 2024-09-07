@@ -26,7 +26,7 @@
 
 ## 
 The processed datasets are released at [<b>Baidu Drive</b>](), Code: data
-
+The weights of SAM_Adapter, SAM_LoRA (r=96), and SAM_MLoRA (r=32,n=3) are released at [<b>Baidu Drive</b>](), Code: weight
 
 ## Road Extraction
 
@@ -61,9 +61,6 @@ SAM_MLoRA (r=32,n=3)
 ```
 python train_sam_adapter_build.py --name='b_adapter_sam_multi_lora32_sp24'
 ```
-
-## 
-The weights of SAM_Adapter, SAM_LoRA (r=96), and SAM_MLoRA (r=32,n=3) are released at [<b>Baidu Drive</b>](), Code: weight
 
 
 ## Citation

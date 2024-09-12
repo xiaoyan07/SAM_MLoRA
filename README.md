@@ -24,9 +24,10 @@
 2. [<b>SpaceNet Building AOI3 and AOI5 Dataset </b>](https://spacenet.ai/spacenet-buildings-dataset-v2/): 1148 (Paris) and 1101 (Khartoum) samples
 3. [<b>The WHU building (Christchurch) dataset</b>](http://gpcv.whu.edu.cn/data/building_dataset.html): 2416 samples
 
-## 
-1. The processed datasets are released at [<b>Baidu Drive</b>](), Code: data
-2. The weights of SAM_Adapter, SAM_LoRA (r=96), and SAM_MLoRA (r=32,n=3) are released at [<b>Baidu Drive</b>](), Code: weight
+##
+2. The trained weights of SAM_Adapter, SAM_LoRA (r=96), and SAM_MLoRA (r=32,n=3) are released at [<b>Baidu Drive</b>](https://pan.baidu.com/s/1_uscV5L8mDt4kihwt1iSqg), Code: MODE
+
+
 
 ## Road Extraction
 

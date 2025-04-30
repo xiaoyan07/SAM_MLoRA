@@ -79,7 +79,7 @@ class LoraLinear(nn.Linear, LoRALayer):
             return F.linear(x, self.weight, bias=self.bias)
 
     @classmethod
-    def onvert_lora_linear(cls, module, r, lora_alpha, lora_dropout=0., merge_weights=False):
+    def convert_lora_linear(cls, module, r, lora_alpha, lora_dropout=0., merge_weights=False):
         module_output = module
         if isinstance(module, nn.Linear):
             module_output = LoraLinear(

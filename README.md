@@ -13,12 +13,12 @@
   <img src="./img/SAM_LoRA.png?raw=true">
 </div>
 
-## The training dataset
+## The Training Set
 
 1. [<b>DeepGlobe Road Training Dataset </b>](https://competitions.codalab.org/competitions/18467#participate-get_data): 4696 samples
 2. [<b>SpaceNet Building AOI2 and AOI4 Dataset </b>](https://spacenet.ai/spacenet-buildings-dataset-v2/): 8429 samples
 
-## The validation set
+## The Validation Set
 
 1. [<b>DeepGlobe Road Test Dataset </b>](https://competitions.codalab.org/competitions/18467#participate-get_data): 1530 samples
 2. [<b>SpaceNet Building AOI3 and AOI5 Dataset </b>](https://spacenet.ai/spacenet-buildings-dataset-v2/): 1148 (Paris) and 1101 (Khartoum) samples

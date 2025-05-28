@@ -1,7 +1,7 @@
 <h2 align="center">Multi-LoRA Fine-Tuned Segment Anything Model for Extraction of Urban Man-Made Objects </h2>
 
 <h5 align="center"> <a href="https://scholar.google.com/citations?user=MDA37NMAAAAJ&hl=zh-CN">Xiaoyan LU</a> and
-<a>Qihao WENG</a></h5>
+<a href="https://scholar.google.com/citations?user=SbbCxE8AAAAJ&hl=zh-CN">Qihao WENG</a></h5>
 
 
 [[`Paper`](https://ieeexplore.ieee.org/abstract/document/10637992)] 
@@ -24,10 +24,9 @@
 2. [<b>SpaceNet Building AOI3 and AOI5 Dataset </b>](https://spacenet.ai/spacenet-buildings-dataset-v2/): 1148 (Paris) and 1101 (Khartoum) samples
 3. [<b>The WHU building (Christchurch) dataset</b>](http://gpcv.whu.edu.cn/data/building_dataset.html): 2416 samples
 
-##
-2. The trained weights of SAM_Adapter, SAM_LoRA (r=96), and SAM_MLoRA (r=32,n=3) are released at [<b>Baidu Drive</b>](https://pan.baidu.com/s/1_uscV5L8mDt4kihwt1iSqg), Code: MODE
-
-
+## Weights Download
+1. The trained weights of SAM_Adapter, SAM_LoRA (r=96), and SAM_MLoRA (r=32,n=3) are released at [<b>Baidu Drive</b>](https://pan.baidu.com/s/1_uscV5L8mDt4kihwt1iSqg), Code: MODE
+2. Or through [<b>Google Drive</b>](https://drive.google.com/drive/folders/1RJ7nZXZSQ6o-u8YnEq-nmQQ3xpeJ35RO?usp=sharing)
 
 ## Road Extraction
 
